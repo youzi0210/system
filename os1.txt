@@ -10,7 +10,7 @@ Swait(s1,t1,d1,...,sn,tn,dn)
 		}
 	}
 }
-Ssign(s1,d1,...,sn,dn)
+Ssignal(s1,d1,...,sn,dn)
 {
 	while
 	{
