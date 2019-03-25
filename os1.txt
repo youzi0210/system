@@ -1,0 +1,22 @@
+Swait(s1,t1,d1,...,sn,tn,dn)
+{
+	while(TRUE)
+	{
+		if(s1>=t1&&...&&sn>=tn)
+		{
+			for(i=1;i<=n;i++)
+			si=si-di;
+			break;
+		}
+	}
+}
+Ssign(s1,d1,...,sn,dn)
+{
+	while
+	{
+		for(i=1;i<=n;i++)
+		{
+			si=si+di;
+		}
+	}
+}
